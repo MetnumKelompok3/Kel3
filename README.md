@@ -18,6 +18,7 @@ No 2
 
 Jawaban :
 """
+#No 1 a
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -76,7 +77,7 @@ print("  / |")
 print(" /  |")
 print(f"/___| Akar (x={c:.4f})")
 
-#No 2
+#No 1 b
 
 import numpy as np
 
